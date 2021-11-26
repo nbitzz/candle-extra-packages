@@ -1,5 +1,6 @@
 [
   "http",
   "hk",
-  "util"
+  "util",
+  "pkg"
 ]
