@@ -1,5 +1,5 @@
 # candle-extra-packages
-A collection of fun packages that really didn't make sense being built into Candlelight. 
+A collection of packages that really didn't make sense being built into Candlelight. 
 
 ## How to install a package
 
